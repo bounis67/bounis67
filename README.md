@@ -8,13 +8,11 @@ Freelance web developer based in Strasbourg, France. Passionate about innovation
 
 ## My Projects
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **MiniLy** | Free and unlimited URL shortener with customizable QR codes and real-time analytics. | [minily.org](https://minily.org) |
-| **BingoHub** | Digital assistant for bingo/lotto players: manage unlimited cards, place your markers in one click and track your statistics. | [bingohub.fr](https://bingohub.fr) |
-| **UniRoom** | App to find empty rooms at the University of Strasbourg in real time. | [uniroom.fr](https://uniroom.fr) |
-| **AnimVibe** | Anime aggregator that automatically gathered streaming links from all platforms. *(Shut down for legal reasons)* | - |
-| **Portfolio** | My personal website showcasing my services and work as a freelance developer. | [boehmcorentin.fr](https://boehmcorentin.fr) |
+- [**MiniLy**](https://minily.org) — Free and unlimited URL shortener with customizable QR codes and real-time analytics.
+- [**BingoHub**](https://bingohub.fr) — Digital assistant for bingo/lotto players: manage unlimited cards, place your markers in one click and track your statistics.
+- [**UniRoom**](https://uniroom.fr) — App to find empty rooms at the University of Strasbourg in real time.
+- **AnimVibe** — Anime aggregator that automatically gathered streaming links from all platforms. *(Shut down for legal reasons)*
+- [**Portfolio**](https://boehmcorentin.fr) — My personal website showcasing my services and work as a freelance developer.
 
 ## Tech Stack
 
